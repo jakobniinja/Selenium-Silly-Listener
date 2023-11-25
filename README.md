@@ -2,7 +2,7 @@
 
 ### Minimal bot for attracting more downloads to https://www.blueclub.se/
 
-#### The program is power by windows scheduler to run on a daily basis. Use your VPN of choice to manipulate trafic :)
+#### The program is power by windows scheduler to run on a daily basis. Use your VPN of choice to manipulate traffic :)
 
 ## Prerequisites:
 
