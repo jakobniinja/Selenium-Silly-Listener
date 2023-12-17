@@ -6,9 +6,9 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
 public class Main {
-    private static final String URL = "https://www.blueclub.se/2193241/13433078";
+    private static final String URL = "https://www.blueclub.se/2193241/13689448";
     private static final String PLAY_BUTTON = "//button[@title='Play']";
-    private static final int LISTEN_TIME = 130_000;
+    private static final int LISTEN_TIME = 22_000;
     private static final int AWAIT_PAGE_LOAD_TIME = 4_000;
 
     public static void main(String[] args) throws InterruptedException {
